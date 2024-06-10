@@ -3,7 +3,7 @@ public class Substringremove {
 skip("", "baccad");
 
 	}
-	 static void skip (String p, String up){
+	static void skip (String p, String up){
 if(up.isEmpty()){
 System.out.println(p);
 return;
